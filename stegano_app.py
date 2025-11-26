@@ -206,11 +206,12 @@ def main():
     st.markdown("---")
     st.markdown(
         """
-        joe wevil - developtment python streamlit\n
+        joe wevil - development python streamlit\n
         Note: Image must be large enough to hold your message. Each character requires 8 bits, each pixel can encode 3 bits.
         """
     )
 
 if __name__ == "__main__":
     main()
+
 
